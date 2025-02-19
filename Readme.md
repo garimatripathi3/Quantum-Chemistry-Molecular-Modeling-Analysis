@@ -125,7 +125,5 @@ Access to ABACUS was instrumental in achieving high-quality results within reaso
 
 ## 👤 Author
 Created by Garima Tripathi
-
-## 🙏 Acknowledgments
-Special thanks to the High-Performance Computing (HPC) facility at IIIT Hyderabad for providing access to the ABACUS computing cluster, which made these calculations possible.
+Email : garimatripathi0778@gmail.com
 
