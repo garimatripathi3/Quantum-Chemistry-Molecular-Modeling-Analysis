@@ -80,26 +80,7 @@ Key vibrational modes comparison:
 
 Analysis shows that despite the calculated binding energy values, water forms stronger hydrogen bonds due to oxygen's higher electronegativity, smaller atomic radius, and stronger dipole-dipole interactions compared to sulfur in H₂S.
 
-## 📁 Repository Structure
-```
-├── 📂 data/
-│   ├── reaction_energies.csv
-│   ├── butane_conformational.csv
-│   └── vibrational_data.csv
-├── 📊 figures/
-│   ├── butane_energy_profile.png
-│   ├── acetaldehyde_ir_spectrum.png
-│   └── h-bond_comparison.png
-├── 📜 scripts/
-│   ├── energy_calculations.py
-│   ├── conformational_analysis.py
-│   └── spectrum_comparison.py
-├── ⚙️ gaussian_input/
-│   ├── ethene_hydrogenation.gjf
-│   ├── methane_combustion.gjf
-│   └── water_dimer.gjf
-└── 📖 README.md
-```
+
 
 ## 🔮 Future Work
 - Improve accuracy with higher-level theory (DFT/B3LYP)
