@@ -86,8 +86,7 @@ Garima Tripathi
 - 🎓 IIIT Hyderabad
 - 💼 [LinkedIn](garimatripathi)
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ---
 ⭐️ From [garimatripathi](https://github.com/garimatripathi)
